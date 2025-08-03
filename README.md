@@ -2,10 +2,6 @@
 
 An interactive Power BI report analyzing child marriage cases across Indian states and union territories from 2019 to 2021.
 
-## File
-
-- `child marriage report.pbix`: Power BI file containing the full report.
-
 ## Report Highlights
 
 - **Top 5 and Bottom 5 regions** based on reported cases
