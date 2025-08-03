@@ -20,3 +20,9 @@ An interactive Power BI report analyzing child marriage cases across Indian stat
 ## Insight
 
 > Significant disparity can be observed between states/UTs with maximum and minimum reported cases.
+
+## Preview
+
+![Report Snapshot 1](child marriage report summary.jpg)
+![Report Snapshot 2](child marriage report utstate.jpg)
+![Report Snapshot 2](child marriage report trend.jpg)
